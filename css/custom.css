@@ -11,6 +11,10 @@
     color: rgb(191, 168, 191) !important;
 }
 
+.light-purp-badge {
+    background-color: rgb(191, 168, 191) !important;
+}
+
 .dark-blue {
     background-color: rgb(24, 27, 94) !important;
 }
@@ -19,6 +23,11 @@
     color: rgb(24, 27, 94) !important;
 }
 
-.btn {
+.btn,
+.btn-large {
+    background-color: rgb(125, 126, 192) !important;
+}
+
+.nav-wrapper {
     background-color: rgb(125, 126, 192) !important;
 }
