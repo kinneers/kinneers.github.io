@@ -31,3 +31,7 @@
 .nav-wrapper {
     background-color: rgb(125, 126, 192) !important;
 }
+
+.bigger {
+    size: 50px important!;
+}

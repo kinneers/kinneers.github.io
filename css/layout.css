@@ -170,7 +170,12 @@ nav,
 }
 
 .side-nav .social .ion {
-	font-size: 16px;
+	font-size: 20px;
+}
+
+.card-profile-desc .ion {
+    font-size: 30px;
+    padding: 5px;
 }
 
 .side-nav li.active a {
