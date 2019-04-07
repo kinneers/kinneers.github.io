@@ -35,3 +35,15 @@
 .bigger {
     size: 50px important!;
 }
+
+.activator {
+    height: 298px;
+}
+
+div.card-content{
+    min-height: 170px important!;
+}
+
+img {
+    border: dotted rgb(193, 195, 197) 1px;
+}
